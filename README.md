@@ -11,7 +11,7 @@ Al utilizar esta opción (bajar la carpeta ejecutable) es necesario aceptar la a
 HerramientasPDF se pone a disposición de la persona interesada, bajo su propio riesgo y sin ninguna responsabilidad de nuestra parte.
 
 Hay un video en youtube que explica la instalación y el funcionamiento de HerramientasPDF.
-https://youtu.be/hoCZoeRROgU
+https://youtu.be/Oa9dkfuyEkY
 
 ¡Espero le sea de utilidad!
 
