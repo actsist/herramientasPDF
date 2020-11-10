@@ -1,5 +1,5 @@
 # herramientasPDF
-HerramientasPDF utiliza itextsharp para unir, generar indice, foliar y firmar electónicamente uno o varios archivos PDF.
+HerramientasPDF utiliza itextsharp para unir, generar indice, foliar y firmar electrónicamente uno o varios archivos PDF.
 
 La firma se puede realizar con la e.firma del SAT
 
